@@ -30,5 +30,5 @@ https://fe1-hgx6.vercel.app/
 ## 🏛️Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
+[![Apache 2.0](https://img.shields.io/badge/Apache-2.0-purple.svg)](https://choosealicense.com/licenses/apache-2.0/)
 
