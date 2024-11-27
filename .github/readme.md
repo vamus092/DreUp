@@ -14,10 +14,15 @@ We’re excited to have you as a contributor to DreUp! Whether you’re a develo
 
 How to Contribute:
 
-Explore the GitHub repository for the basic template and current issues.
-Fork the repository, create a new branch, and work on your improvements.
-Follow the contribution guidelines specified in the repository to submit a pull request.
-Thank you for supporting DreUp and helping us redefine fashion through collaboration and innovation! Together, we can build something extraordinary.
+-Explore the GitHub repository for the basic template and current issues.
+-Fork the repository, create a new branch, and work on your improvements.
+-Follow the contribution guidelines specified in the repository to submit a pull request.
+-Thank you for supporting DreUp and helping us redefine fashion through collaboration and innovation! Together, we can build something extraordinary.
+
+
+We welcome contributions! If you have a project idea or want to improve existing projects, please check out our [Contributing Guidelines](.github/CONTRIBUTING.md). Your contributions help make learning to code more accessible.
+
+⭐ If you find this project helpful, consider giving it a star! ⭐ It's a simple way to show your support.
 
 ## 🔗🔗Deployment
 ```https://fe1-hgx6.vercel.app/ ```
