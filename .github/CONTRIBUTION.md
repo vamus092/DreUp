@@ -1,6 +1,6 @@
 # Contributing to Programming Starters Project
 
-🎉 Thank you for considering contributing to the Programming Starters Project! 🚀
+🎉 Thank you for considering contributing to the DreUp Project! 🚀
 
 We welcome your contributions to make this repository a valuable resource for learners. Whether you want to add new projects, improve documentation, or fix issues, your efforts are appreciated.
 
