@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">DreUp</h1>
 <h3>👇🏼This is the basic template you are free to change within it(ScreenShot)👇🏼</h3>
-
+</div>
 ![image](https://github.com/user-attachments/assets/92a6ca56-0a5c-4c92-a3a1-4da6f10ca0d4)
 
 
