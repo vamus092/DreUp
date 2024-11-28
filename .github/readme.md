@@ -20,7 +20,7 @@ How to Contribute:
 - Thank you for supporting DreUp and helping us redefine fashion through collaboration and innovation! Together, we can build something extraordinary.
 
 
-We welcome contributions! If you have a project idea or want to improve existing projects, please check out our [Contributing Guidelines]([.github/CONTRIBUTION.md](https://github.com/vamus092/DreUp/blob/main/.github/CONTRIBUTION.md)). Your contributions help make learning to code more accessible.
+We welcome contributions! If you have a project idea or want to improve existing projects, please check out our [Contributing Guidelines](https://github.com/vamus092/DreUp/blob/main/.github/CONTRIBUTION.md). Your contributions help make learning to code more accessible.
 
 ⭐ If you find this project helpful, consider giving it a star! ⭐ It's a simple way to show your support.
 
