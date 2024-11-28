@@ -25,6 +25,6 @@ By participating, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md
 
 ## Need Help?
 
-If you have questions or need assistance, feel free to open an issue or reach out to chreachanchhunneng@gmail.com.
+If you have questions or need assistance, feel free to open an issue or reach out to dsuvamwork001@gmail.com.
 
 Thank you for contributing! 🌟
