@@ -1,4 +1,4 @@
-# Contributing to Programming Starters Project
+# Contributing to DreUp Project
 
 🎉 Thank you for considering contributing to the DreUp Project! 🚀
 
